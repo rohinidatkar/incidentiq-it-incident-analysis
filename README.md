@@ -257,7 +257,7 @@ This project can be extended by implementing:
 
 📧 rohinidatkar@gmail.com
 
-🔗 LinkedIn: *(https://www.linkedin.com/in/rohinidatkarL)*
+🔗 LinkedIn: *(https://www.linkedin.com/in/rohinidatkar/)*
 
 💻 GitHub: *(https://github.com/rohinidatkar)*
 
