@@ -257,9 +257,9 @@ This project can be extended by implementing:
 
 📧 rohinidatkar@gmail.com
 
-🔗 LinkedIn: *(Add your LinkedIn URL)*
+🔗 LinkedIn: *(https://www.linkedin.com/in/rohinidatkarL)*
 
-💻 GitHub: *(Add your GitHub URL)*
+💻 GitHub: *(https://github.com/rohinidatkar)*
 
 ---
 
