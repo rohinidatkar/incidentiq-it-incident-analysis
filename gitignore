@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+*.pyc
+.venv/
+# Large raw data file: download it separately (see README)
+dataset/incident_event_log.csv
